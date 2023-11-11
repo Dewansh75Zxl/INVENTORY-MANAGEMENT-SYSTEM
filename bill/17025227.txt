@@ -1,0 +1,19 @@
+
+  	Inventory Management System
+  Phone No. 9840036452 , Chyasal-09,Lalitpur
+===============================================
+ Customer Name: Dewansh Thapa
+ Ph no. :9840036452
+ Bill No. 17025227			Date: 17/02/2023
+===============================================
+ Product Name			QTY	Price       
+===============================================
+ real MANGO			1	Rs.2100.0
+ apple			1	Rs.100000.0
+ mango			1	Rs.1678.0
+ iphone			1	Rs.70000.0
+===============================================
+ Bill Amount				Rs.173778.0
+ Discount				Rs.8688.9            
+ Net Pay				Rs.165089.1
+=============================================== 
